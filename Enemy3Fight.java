@@ -14,7 +14,7 @@ public class Enemy3Fight
 	{
 		player.setLevel(City.level);
 		player.setHealth(City.health);
-//		enemy3.setEnemy3Health(750, 0);
+		enemy3.setEnemy3Health(750, 0);
 		
 		System.out.println("Level 3: Harpy\n");
 		System.out.println("Your stats:");
