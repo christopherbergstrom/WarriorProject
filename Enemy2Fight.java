@@ -14,7 +14,7 @@ public class Enemy2Fight
 	{
 		player.setLevel(City.level);
 		player.setHealth(City.health);
-//		enemy2.setEnemy2Health(500, 0);
+		enemy2.setEnemy2Health(500, 0);
 		
 		System.out.println("Level 2: Undead Soldier\n");
 		System.out.println("Your stats:");
