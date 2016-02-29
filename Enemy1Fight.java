@@ -14,7 +14,7 @@ public class Enemy1Fight
 	{
 		player.setLevel(City.level);
 		player.setHealth(City.health);
-//		enemy1.setEnemy1Health(250, 0);
+		enemy1.setEnemy1Health(250, 0);
 		
 		System.out.println("Level 1: Skeleton Archer\n");
 		System.out.println("Your stats:");
