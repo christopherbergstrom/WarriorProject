@@ -28,8 +28,8 @@ public class Instructions
 		System.out.println("  ULTIMATE BLOCK ROUND: If you choose to block the enemy's attack, you will block 100% of the attack, regardless of what shield you have.");
 		System.out.println("  DOUBLE GOLD DROPPED ROUND: If the enemy drops gold, it will drop double the normal amount.");
 		System.out.println("  CRITICAL HIT: Randomly happens at any point mid game. It too, inflicts double the normal damage for any attack (including the Reflector Shield).");
-		System.out.println("These boosts will all build on each other, meaning if you have the DOUBLE DAMAGE INFLICTING ROUND and the DOUBLE DAMAGE HEAVY WEAPON ROUND");
-		System.out.println("  and you choose to attack with your heavy weapon, it will inflict four times the normal damage,");
+		System.out.println("These boosts will all build on each other, meaning that if you have the DOUBLE DAMAGE INFLICTING ROUND and the DOUBLE DAMAGE HEAVY WEAPON ROUND");
+		System.out.println("  and you choose to attack with your Heavy weapon, it will inflict four times the normal damage,");
 		System.out.println("  and if you get a CRITICAL HIT with both of those boosts active, it will inflict eight times the normal damage.");
 		System.out.println("\n(0) Back");
 		menu = input.next();
